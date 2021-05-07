@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Challenge_1.Scripts
+namespace SoaringPlane.Scripts
 {
     public class PlayerController : MonoBehaviour
     {
